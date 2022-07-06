@@ -1,7 +1,7 @@
 # Medical
 State-level data regarding medicine and health
 <p>
-<b>Created for:</b> CSU Chico's SOCI 398: Medical Sociology<br>
+<b>Created for:</b> CSU Chico's SOCI 470: Medical Sociology<br>
 <b>Cases:</b> US's 50 states (plus: US territories)<br>
 <b>Variable categories:</b> social, demographic, medicine, health<br>
 <b>Variable topics:</b> <br>
